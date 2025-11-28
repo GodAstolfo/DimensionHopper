@@ -1,0 +1,798 @@
+fileFormatVersion: 2
+guid: 9fa0e87f7dc5b6141b961abb86858690
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2157763765594162380
+    second: GYGjYD_0
+  - first:
+      213: -6514367182451349289
+    second: GYGjYD_1
+  - first:
+      213: 7130135410602103756
+    second: GYGjYD_2
+  - first:
+      213: -2709407171797256718
+    second: GYGjYD_3
+  - first:
+      213: 4455595596451290919
+    second: GYGjYD_4
+  - first:
+      213: -5485602424094940517
+    second: GYGjYD_5
+  - first:
+      213: -1174033726780979184
+    second: GYGjYD_6
+  - first:
+      213: 1229473045864822419
+    second: GYGjYD_7
+  - first:
+      213: 4587424796597690166
+    second: GYGjYD_8
+  - first:
+      213: 5579431926396196115
+    second: GYGjYD_9
+  - first:
+      213: 706836227504700268
+    second: GYGjYD_10
+  - first:
+      213: -5332271837520776153
+    second: GYGjYD_11
+  - first:
+      213: 1594738131095679968
+    second: GYGjYD_12
+  - first:
+      213: -1306814044455434049
+    second: GYGjYD_13
+  - first:
+      213: 44310968536324004
+    second: GYGjYD_14
+  - first:
+      213: 6790592900146653083
+    second: GYGjYD_15
+  - first:
+      213: 4441824978198242035
+    second: GYGjYD_16
+  - first:
+      213: -2946101765315570212
+    second: GYGjYD_17
+  - first:
+      213: -7626262196053400621
+    second: GYGjYD_18
+  - first:
+      213: -2297448329478534916
+    second: GYGjYD_19
+  - first:
+      213: 160064189798383304
+    second: GYGjYD_20
+  - first:
+      213: 6126668482336670159
+    second: GYGjYD_21
+  - first:
+      213: -6252317222446571896
+    second: GYGjYD_22
+  - first:
+      213: -4402156783770375860
+    second: GYGjYD_23
+  - first:
+      213: 5139611268095914037
+    second: GYGjYD_24
+  - first:
+      213: 7449545702894934932
+    second: GYGjYD_25
+  - first:
+      213: -5459045205305260224
+    second: GYGjYD_26
+  - first:
+      213: 5471471034342090514
+    second: GYGjYD_27
+  - first:
+      213: -561464977708088683
+    second: GYGjYD_28
+  - first:
+      213: 3771962162202893665
+    second: GYGjYD_29
+  - first:
+      213: 1280614978185714567
+    second: GYGjYD_30
+  - first:
+      213: -7459757294060765259
+    second: GYGjYD_31
+  - first:
+      213: -6987900633321182347
+    second: GYGjYD_32
+  - first:
+      213: 7341083564493802319
+    second: GYGjYD_33
+  - first:
+      213: -3424284955047825967
+    second: GYGjYD_34
+  - first:
+      213: -8222042873438038033
+    second: GYGjYD_35
+  - first:
+      213: -7293354065083528927
+    second: GYGjYD_36
+  - first:
+      213: -7607004154721075240
+    second: GYGjYD_37
+  - first:
+      213: -7951076776250205013
+    second: GYGjYD_38
+  - first:
+      213: -3680083457498583577
+    second: GYGjYD_39
+  - first:
+      213: -4938287053563091159
+    second: GYGjYD_40
+  - first:
+      213: 3035290935936601393
+    second: GYGjYD_41
+  - first:
+      213: 6868908835741978147
+    second: GYGjYD_42
+  - first:
+      213: -3787616313491870007
+    second: GYGjYD_43
+  - first:
+      213: 3131223030360644162
+    second: GYGjYD_44
+  - first:
+      213: -866938446596949546
+    second: GYGjYD_45
+  - first:
+      213: -2972840447714610667
+    second: GYGjYD_46
+  - first:
+      213: 1223301510083764295
+    second: GYGjYD_47
+  - first:
+      213: -8913290210751626936
+    second: GYGjYD_48
+  - first:
+      213: 8186586900484144555
+    second: GYGjYD_49
+  - first:
+      213: 5468493467840360630
+    second: GYGjYD_50
+  - first:
+      213: -9125920556356553944
+    second: GYGjYD_51
+  - first:
+      213: -7709215361714375112
+    second: GYGjYD_52
+  - first:
+      213: -8970249792803099786
+    second: GYGjYD_53
+  - first:
+      213: 1850497797980205847
+    second: GYGjYD_54
+  - first:
+      213: 7666572921993261228
+    second: GYGjYD_55
+  - first:
+      213: 2734436735794938302
+    second: GYGjYD_56
+  - first:
+      213: 7464173058342650420
+    second: GYGjYD_57
+  - first:
+      213: -8471110361560943679
+    second: GYGjYD_58
+  - first:
+      213: 7111473585250237664
+    second: GYGjYD_59
+  - first:
+      213: 4894855121003915881
+    second: GYGjYD_60
+  - first:
+      213: 4858036218472513497
+    second: GYGjYD_61
+  - first:
+      213: 5005897720208296656
+    second: GYGjYD_62
+  - first:
+      213: 1459248529522436528
+    second: GYGjYD_63
+  - first:
+      213: -6770203897439978215
+    second: GYGjYD_64
+  - first:
+      213: 3324540784251450605
+    second: GYGjYD_65
+  - first:
+      213: -2682548077164111255
+    second: GYGjYD_66
+  - first:
+      213: 320417710230720366
+    second: GYGjYD_67
+  - first:
+      213: 1084663064537300228
+    second: GYGjYD_68
+  - first:
+      213: -1202553754563236070
+    second: GYGjYD_69
+  - first:
+      213: 182752604364683136
+    second: GYGjYD_70
+  - first:
+      213: -3913405366619331131
+    second: GYGjYD_71
+  - first:
+      213: -3954105522218722494
+    second: GYGjYD_72
+  - first:
+      213: 9196956424510748497
+    second: GYGjYD_73
+  - first:
+      213: -246849412752106198
+    second: GYGjYD_74
+  - first:
+      213: -5922960284748735664
+    second: GYGjYD_75
+  - first:
+      213: 1584601235315544289
+    second: GYGjYD_76
+  - first:
+      213: 2768793261621636322
+    second: GYGjYD_77
+  - first:
+      213: -3629573649807755170
+    second: GYGjYD_78
+  - first:
+      213: -6153959207618055281
+    second: GYGjYD_79
+  - first:
+      213: 5572240440616691568
+    second: GYGjYD_80
+  - first:
+      213: -603391537952015029
+    second: GYGjYD_81
+  - first:
+      213: 6783210437380036019
+    second: GYGjYD_82
+  - first:
+      213: 2079079714414467344
+    second: GYGjYD_83
+  - first:
+      213: 1656253094328536723
+    second: GYGjYD_84
+  - first:
+      213: 5491292479252054708
+    second: GYGjYD_85
+  - first:
+      213: 3609735537784540704
+    second: GYGjYD_86
+  - first:
+      213: 6203771703081084122
+    second: GYGjYD_87
+  - first:
+      213: 6277080579451444862
+    second: GYGjYD_88
+  - first:
+      213: 2905856163531054516
+    second: GYGjYD_89
+  - first:
+      213: 6576464740451775901
+    second: GYGjYD_90
+  - first:
+      213: 1028608537130297746
+    second: GYGjYD_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GYGjYD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4224
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bfc8a99451e02e0800000000000000
+      internalID: -2157763765594162380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GYGjYD_1
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 4224
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d86689ef815895a0800000000000000
+      internalID: -6514367182451349289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GYGjYD_2
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 4224
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc35f5df06453f260800000000000000
+      internalID: 7130135410602103756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GYGjYD_3
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 4224
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5f0254880466ad0800000000000000
+      internalID: -2709407171797256718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GYGjYD_4
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 4224
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f1645969475dd30800000000000000
+      internalID: 4455595596451290919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GYGjYD_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92acc4c8a93fd3b0800000000000000
+      internalID: -5485602424094940517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GYGjYD_6
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2816
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01844e8bb8ef4bfe0800000000000000
+      internalID: -1174033726780979184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GYGjYD_7
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 2816
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396b0bf9837ff0110800000000000000
+      internalID: 1229473045864822419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GYGjYD_8
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2816
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f160b1c8ec9af30800000000000000
+      internalID: 4587424796597690166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GYGjYD_9
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 2816
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3159155a6cf1e6d40800000000000000
+      internalID: 5579431926396196115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GYGjYD_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b7bcecdcf2fc900800000000000000
+      internalID: 706836227504700268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GYGjYD_11
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1408
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72431cee307fff5b0800000000000000
+      internalID: -5332271837520776153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GYGjYD_12
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 1408
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e37ab581e5a12610800000000000000
+      internalID: 1594738131095679968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GYGjYD_13
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1408
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb80eb4ec834ddde0800000000000000
+      internalID: -1306814044455434049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GYGjYD_14
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 1408
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7d243579c6d9000800000000000000
+      internalID: 44310968536324004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GYGjYD_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97e78bb3480d3e50800000000000000
+      internalID: 6790592900146653083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GYGjYD_16
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 1120
+        height: 1408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2a6fba84884ad30800000000000000
+      internalID: 4441824978198242035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e967bbd835816e54fb3f86dabae975d6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GYGjYD_0: -2157763765594162380
+      GYGjYD_1: -6514367182451349289
+      GYGjYD_10: 706836227504700268
+      GYGjYD_11: -5332271837520776153
+      GYGjYD_12: 1594738131095679968
+      GYGjYD_13: -1306814044455434049
+      GYGjYD_14: 44310968536324004
+      GYGjYD_15: 6790592900146653083
+      GYGjYD_16: 4441824978198242035
+      GYGjYD_17: -2946101765315570212
+      GYGjYD_2: 7130135410602103756
+      GYGjYD_3: -2709407171797256718
+      GYGjYD_4: 4455595596451290919
+      GYGjYD_5: -5485602424094940517
+      GYGjYD_6: -1174033726780979184
+      GYGjYD_7: 1229473045864822419
+      GYGjYD_8: 4587424796597690166
+      GYGjYD_9: 5579431926396196115
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

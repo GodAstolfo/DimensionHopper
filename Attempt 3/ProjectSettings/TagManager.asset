@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Pickup
+  - Ground
+  - Dooby
+  - Control
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Skybox
+    uniqueID: 954644119
+    locked: 0
+  - name: Far Trees
+    uniqueID: 739227575
+    locked: 0
+  - name: Mountain
+    uniqueID: 3280982613
+    locked: 0
+  - name: Near Trees
+    uniqueID: 1532437311
+    locked: 0
+  - name: Hills
+    uniqueID: 1539479149
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2002715823
+    locked: 0
+  - name: Level
+    uniqueID: 3298389227
+    locked: 0
+  - name: Weapon
+    uniqueID: 1711022361
+    locked: 0
+  - name: Player
+    uniqueID: 727561811
+    locked: 0
+  - name: Hazards
+    uniqueID: 251020813
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2215751153
+    locked: 0
+  m_RenderingLayers:
+  - Default
